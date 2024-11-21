@@ -74,14 +74,45 @@ Responsibilities:
 -Coordinate and facilitate communication between team members
 -Monitor project progress and address any roadblocks or issues
 ###Frontend Developers
-Responsibilities:
+*Responsibilities:
 -Design and implement the user interface and user experience
 -Develop responsive and accessible web pages and components
 -Integrate the frontend with the backend API
 -Optimize the application for performance and security
 ###Backend Developers
--Responsibilities:
+*Responsibilities:
 -Design and develop the server-side logic and APIs
 -Implement the data models and database management
 -Ensure secure and scalable backend infrastructure
 -Integrate the backend with the frontend application
+###Designers
+*Responsibilities:
+-Create the visual design and branding for the Airbnb clone
+-Design intuitive and user-friendly interfaces
+-Collaborate with frontend developers to ensure design implementation
+-Iterate on the design based on user feedback and project requirements
+###QA/Testers
+Responsibilities:
+-Develop and execute comprehensive test plans
+-Perform functional, integration, and end-to-end testing
+-Automate testing processes to ensure consistent quality
+###DevOps Engineers
+Responsibilities:
+-Set up the continuous integration and deployment pipeline
+-Manage the infrastructure and platform for hosting the application
+-Ensure the application is scalable, secure, and highly available
+-Optimize the deployment process and infrastructure for efficiency
+###Product Owner
+Responsibilities:
+-Define the product vision and roadmap
+-Collaborate with the team to refine and clarify requirements
+-Ensure the delivered product aligns with user needs and business objectives
+-Gather and incorporate user feedback to inform product decisions
+###Scrum Master
+Responsibilities: 
+-Facilitate the Scrum events and ceremonies
+-Ensure the team follows Agile best practices
+-Identify and remove any impediments to the team's progress
+-Protect the team from external distractions and disruptions
+
+
