@@ -18,10 +18,10 @@ Implement a fully functional property booking system.
 ## UI/UX Design Planning
 
 ###Design Goals
-Create a visually appealing and user-friendly interface that enhances the user experience.
-Ensure a responsive design that works seamlessly across all devices (desktop, tablet, mobile).
-Implement intuitive navigation to allow users to find and book properties easily.
-Maintain consistency in design through the use of predefined styles, colors, and typography.
+-Create a visually appealing and user-friendly interface that enhances the user experience.
+-Ensure a responsive design that works seamlessly across all devices (desktop, tablet, mobile).
+-Implement intuitive navigation to allow users to find and book properties easily.
+-Maintain consistency in design through the use of predefined styles, colors, and typography.
 
 ###Key Features
 User-friendly search and filter functionality
