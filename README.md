@@ -15,7 +15,7 @@ Implement a fully functional property booking system.
 
 
 
-## UI/UX Design Planning
+## UI/UX Design Planing
 
 ### Design Goals
 - Create a visually appealing and user-friendly interface that enhances the user experience.
