@@ -116,3 +116,21 @@ Responsibilities:
 - Protect the team from external distractions and disruptions
 
 
+
+
+  ## UI Component Patterns
+  For the Airbnb Clone project, we plan to create the following key UI components:
+  ### Navbar
+  - Persistent header at the top of the page
+  - Contains the AirBnB logo and main navigation links (Explore, Become a Host, Help, etc.)
+  - Includes a search bar for finding properties
+  - May have user account/profile options
+  ### Property Card
+  - Compact visual representation of a single property listing
+  - Displays the property image, title, location, rating, and price
+  - Allows users to quickly browse and compare multiple properties
+  ### Footer
+  - Contains copyright information, links to company policies, and social media icons
+  - May include additional links to help sections or other resources
+  - Provides a consistent closure to the user interface
+
