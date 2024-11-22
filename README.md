@@ -17,19 +17,19 @@ Implement a fully functional property booking system.
 
 ## UI/UX Design Planning
 
-###Design Goals
+### Design Goals
 - Create a visually appealing and user-friendly interface that enhances the user experience.
 - Ensure a responsive design that works seamlessly across all devices (desktop, tablet, mobile).
 - Implement intuitive navigation to allow users to find and book properties easily.
 - Maintain consistency in design through the use of predefined styles, colors, and typography.
 
-###Key Features
+### Key Features
 - User-friendly search and filter functionality
 - Clear property presentation
 - Simplified booking process
 - Responsive and mobile-friendly interface
 
-###Page Design Overview
+### Page Design Overview
 A user-friendly design is crucial in a booking system as it:
 *Reduces user friction
 - The clean, intuitive design builds immediate user confidence
@@ -42,18 +42,18 @@ A user-friendly design is crucial in a booking system as it:
 
 
 
-##Color Styles and Typography
+## Color Styles and Typography
 
-###Color Palette
+### Color Palette
 Primary Colors:
-*Turquoise/Teal: Used for the main navigation, headings, and call-to-action buttons
-*White: Used as the primary background color
-*Gray Tones: Used for text, borders, and secondary elements
+* Turquoise/Teal: Used for the main navigation, headings, and call-to-action buttons
+ * White: Used as the primary background color
+* Gray Tones: Used for text, borders, and secondary elements
 Accent Colors:
 *Yellow: Used for highlighting important information or calls to action
 *Blue: Used sparingly, possibly for links or interactive elements
 *Green: Used to indicate positive attributes or status (e.g., pricing, ratings)
-###Typography
+### Typography
 Font Family
 *Sans-serif typeface
 *Arial
