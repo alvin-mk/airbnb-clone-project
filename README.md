@@ -4,7 +4,7 @@
 
 ### Project Goals
 Implement a fully functional property booking system.
-- Create a visually appealing and responsive design.
+ Create a visually appealing and responsive design.
 - Utilize modern web technologies like React and Tailwind CSS.
 - Ensure scalability and maintainability for future features.
 
