@@ -9,7 +9,7 @@ Implement a fully functional property booking system.
  Could you make sure that it is maintainable for future features?
 
 ### Tech Stack
-**Front-end**React, Tailwind CSS 
+**Front-end** React, Tailwind CSS 
 **Deployment**: Vercel or Netlify for hosting
 
 
