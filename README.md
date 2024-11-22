@@ -4,9 +4,9 @@
 
 ### Project Goals
 Implement a fully functional property booking system.
- Create a visually appealing and responsive design.
- Utilize modern web technologies like React and Tailwind CSS.
- Could you make sure that it is maintainable for future features?
+- Create a visually appealing and responsive design.
+- Utilize modern web technologies like React and Tailwind CSS.
+- Could you make sure that it is maintainable for future features?
 
 ### Tech Stack
 **Front-end** React, Tailwind CSS 
@@ -18,27 +18,27 @@ Implement a fully functional property booking system.
 ## UI/UX Design Planning
 
 ###Design Goals
--Create a visually appealing and user-friendly interface that enhances the user experience.
--Ensure a responsive design that works seamlessly across all devices (desktop, tablet, mobile).
--Implement intuitive navigation to allow users to find and book properties easily.
--Maintain consistency in design through the use of predefined styles, colors, and typography.
+- Create a visually appealing and user-friendly interface that enhances the user experience.
+- Ensure a responsive design that works seamlessly across all devices (desktop, tablet, mobile).
+- Implement intuitive navigation to allow users to find and book properties easily.
+- Maintain consistency in design through the use of predefined styles, colors, and typography.
 
 ###Key Features
-User-friendly search and filter functionality
-Clear property presentation
-Simplified booking process
-Responsive and mobile-friendly interface
+- User-friendly search and filter functionality
+- Clear property presentation
+- Simplified booking process
+- Responsive and mobile-friendly interface
 
 ###Page Design Overview
 A user-friendly design is crucial in a booking system as it:
 *Reduces user friction
-The clean, intuitive design builds immediate user confidence
+- The clean, intuitive design builds immediate user confidence
 *Increases booking conversion rates
-Clear pricing and property details reduce user hesitation
+- Clear pricing and property details reduce user hesitation
 *Builds user trust and confidence
-Transparent information reduces user uncertainty
+- Transparent information reduces user uncertainty
 *Differentiates the platform from competitors
-Attracts users through superior user experience
+- Attracts users through superior user experience
 
 
 
