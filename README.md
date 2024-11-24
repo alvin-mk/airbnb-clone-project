@@ -108,7 +108,7 @@ Responsibilities:
 - Facilitate the Scrum events and ceremonies
 - Ensure the team follows Agile best practices
 - Identify and remove any impediments to the team's progress
-- Protect the team from external distractions and disruptions
+- Protect the team from external distractions and disruptions 
 
 
 
