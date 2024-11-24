@@ -37,10 +37,6 @@ Implement a fully functional property booking system.
 | **Simple Checkout View**  | Allows users to review their booking details and complete the payment process.                      |Booking summary, payment form, confirmation page |
 
 
-
-
-
-
 ## Color Styles and Typography
 
 ### Color Palette
