@@ -29,16 +29,15 @@ Implement a fully functional property booking system.
 - Simplified booking process
 - Responsive and mobile-friendly interface
 
-### Page Design Overview
-A user-friendly design is crucial in a booking system as it:
-*Reduces user friction
-- The clean, intuitive design builds immediate user confidence
-*Increases booking conversion rates
-- Clear pricing and property details reduce user hesitation
-*Builds user trust and confidence
-- Transparent information reduces user uncertainty
-*Differentiates the platform from competitors
-- Attracts users through superior user experience
+(### Page Design Overview
+| **Page Name**             | **Description**                                                                                    | **Key Features** 
+|-------------------------- |--------------------------------------------------------------------------------------------------- |------------------------------------------
+| **Property Listing View** | Displays a collection of available properties with images, prices, and ratings for easy browsing.  |Search bar, filters, property cards, pagination  |  
+| **Listing Detailed View** | Provides detailed information about a selected property, including images, amenities, and reviews. |Image carousel, amenities list, booking options  |
+| **Simple Checkout View**  | Allows users to review their booking details and complete the payment process.                      |Booking summary, payment form, confirmation page |
+
+
+
 
 
 
