@@ -6,7 +6,7 @@
 Implement a fully functional property booking system.
 - Create a visually appealing and responsive design.
 - Utilize modern web technologies like React and Tailwind CSS.
-- Could you make sure that it is maintainable for future features?
+- Could you make sure that it is maintainable for future features? 
 
 ### Tech Stack
 **Front-end** React, Tailwind CSS 
