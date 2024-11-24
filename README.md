@@ -29,7 +29,7 @@ Implement a fully functional property booking system.
 - Simplified booking process
 - Responsive and mobile-friendly interface
 
-(### Page  Overview
+### Page  Overview
 | **Page Name**             | **Description**                                                                                    | **Key Features** 
 |-------------------------- |--------------------------------------------------------------------------------------------------- |------------------------------------------
 | **Property Listing View** | Displays a collection of available properties with images, prices, and ratings for easy browsing.  |Search bar, filters, property cards, pagination  |  
