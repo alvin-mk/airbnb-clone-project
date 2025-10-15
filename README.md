@@ -128,4 +128,16 @@ Responsibilities:
   - Contains copyright information, links to company policies, and social media icons
   - May include additional links to help sections or other resources
   - Provides a consistent closure to the user interface
-
+ ###  Team Roles
+  - Business analyst
+  - Product owner
+  - Project manager
+  - UI/UX designer
+  - Software architect
+  - Software developer
+  - Test automation engineer
+  - Quality assurance (QA) engineer
+  - Test automation engineer
+  - DevOps engineer
+  - 
+     
