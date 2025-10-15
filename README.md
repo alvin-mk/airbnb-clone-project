@@ -2,6 +2,8 @@
 
 ## Overview of My Project 
 
+## Frontend
+
 ### Project Goals
 Implement a fully functional property booking system.
 - Create a visually appealing and responsive design.
@@ -128,7 +130,9 @@ Responsibilities:
   - Contains copyright information, links to company policies, and social media icons
   - May include additional links to help sections or other resources
   - Provides a consistent closure to the user interface
- ###  Team Roles
+
+## Backend
+  ### Team Roles
   - Business analyst
   - Product owner
   - Project manager
@@ -139,5 +143,10 @@ Responsibilities:
   - Quality assurance (QA) engineer
   - Test automation engineer
   - DevOps engineer
-    
+ ### Technology Stack
+  - Django : a web framework for building RESTful APIs
+  - PostgreSQL : a powerful, open-source object-relational database management system (ORDBMS) that stores and scales data in tables, similar to a traditional relational database, but also supports more advanced features
+  - GraphQL: an open-source query language for APIs and a server-side runtime for executing those queries using a type system defined for the data.
+ ### Database Design
+  - 
      
