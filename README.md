@@ -139,5 +139,5 @@ Responsibilities:
   - Quality assurance (QA) engineer
   - Test automation engineer
   - DevOps engineer
-  - 
+    
      
