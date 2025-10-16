@@ -148,5 +148,26 @@ Responsibilities:
   - PostgreSQL : a powerful, open-source object-relational database management system (ORDBMS) that stores and scales data in tables, similar to a traditional relational database, but also supports more advanced features
   - GraphQL: an open-source query language for APIs and a server-side runtime for executing those queries using a type system defined for the data.
  ### Database Design
-  - 
+  1. User
+  2. Listing
+  3. Booking
+  4. Review
+  5. Payment
+ ### Feature Breakdown
+  1. user management:This feature handles user registration, login, and authentication using secure methods such as JWT or session-based authentication. Users can create    accounts, update their profiles, and manage personal information. It ensures that only authenticated users can access booking and listing features.
+
+  2. Property (Listing) Management: Hosts can create, update, and delete property listings with details such as title, description, location, price, and images. Each property  is linked to its owner (host) through a relational database structure. This feature allows property owners to manage their rental spaces efficiently.
+
+  3. property management: Hosts can create, update, and delete property listings with details such as title, description, location, price, and images. Each property is linked to its owner (host) through a relational database structure. This feature allows property owners to manage their rental spaces efficiently.
+ 
+  4. booking system : This feature enables guests to browse available listings and make reservations. It checks date availability, calculates total costs, and ensures that bookings are tied to both the guest and the property. It’s the core of the application, simulating the real Airbnb booking flow
+  
+  5. Payment Integration : This feature allows users to make secure online payments for their bookings. It supports payment methods such as credit/debit cards or third-party payment gateways. It ensures that transactions are processed safely and that booking confirmations are issued upon successful payment.
+### API Security
+ 1. protecting user data
+ 2. securing payments
+### CI/CD Pipeline
+ 1. GitHub Actions
+ 2.  Docker
+    
      
